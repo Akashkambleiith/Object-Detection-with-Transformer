@@ -8,7 +8,7 @@ from glob import glob
 import scipy.io as sio
 from pycocotools import mask as cocomask
 from PIL import Image
-
+import matplotlib
 
 MAX_N = 10
 
